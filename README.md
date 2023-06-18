@@ -12,6 +12,6 @@ AI virtual mouse system that makes use of the hand gestures and hand tip detecti
 • PLI
 • tkinter
 
-** Hand Gestures ( How to use )**
+**Hand Gestures ( How to use )**
 
 ![image](https://github.com/mananpatel06/Virtual-Mouse-/assets/106819662/de993305-1f26-49be-bbc9-4a2d9c20ed8f)
