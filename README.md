@@ -5,7 +5,7 @@ AI virtual mouse system that makes use of the hand gestures and hand tip detecti
 
 **Library Used**
 
-• OpenCv
+• OpenCv \n 
 • MediaPipe
 • Autopy
 • Pycaw
