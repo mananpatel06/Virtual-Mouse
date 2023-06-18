@@ -1,4 +1,4 @@
-# Virtual-Mouse-
+# Virtual Mouse
 This virtual mouse uses hand gesture to control computer.
 
 AI virtual mouse system that makes use of the hand gestures and hand tip detection for performing mouse functions in the computer using computer vision. The main objective of the proposed system is to perform computer mouse cursor functions ,volume control function using a web camera or a built-in camera in the computer instead of using a traditional mouse device. 
